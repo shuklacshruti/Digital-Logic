@@ -9,7 +9,10 @@ This C program reads a text-based description of a digital circuit and outputs i
 - Handles intermediate wires/variables and multi-gate circuits
 
 ### 📄 Sample Input
-INPUT 3 a b c OUTPUT 1 d AND a b x AND c x d
+INPUT 3 a b c 
+OUTPUT 1 d 
+AND a b x 
+AND c x d
 
 
 ### 🧪 Sample Output
